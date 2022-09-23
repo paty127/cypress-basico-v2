@@ -6,7 +6,7 @@ Mercado
 Explorar
  
 
-#  cy-data-test
+#  cypress-basico-v2
 
 Projeto de amostra para Cypress basico
 
